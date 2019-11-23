@@ -2,10 +2,9 @@
  
 Compañeros de clase:
 
-NOMBRE		|	GITHUB
-
-Alejandro Gorgues	|	AlejandroGorgues
-Zeng Yong		|	zengyong96
-Sergio Manzano 3	|	enlace a github 3
-Áxel García	|	axelgarcia95        
-Pilar Villena	|	pilarvillena  
+NOMBRE	GITHUB
+Alejandro Gorgues	AlejandroGorgues
+Zeng Yong	                    zengyong96
+Áxel García	axelgarcia 
+Pilar Villena	pilarvillena  
+Jilie Chang	jiliechang
